@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "cristian",
+    "password": "1234",
+    "database": "ESSA.BD.CVIDA.INSPECCIONES_TEST",
+    "host": "GWTN141-10",
+    "dialect": "mssql"
+  },
+  "test": {
+    "username": "cristian",
+    "password": "1234",
+    "database": "ESSA.BD.CVIDA.INSPECCIONES_TEST",
+    "host": "GWTN141-10",
+    "dialect": "mssql"
+  },
+  "production": {
+    "username": "cristian",
+    "password": "1234",
+    "database": "ESSA.BD.CVIDA.INSPECCIONES_TEST",
+    "host": "GWTN141-10",
+    "dialect": "mssql"
+  }
+}
